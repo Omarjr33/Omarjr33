@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Omar Cardona
 
-### 💻 Desarrollador de Software Full Stack | Colombia 🇨🇴
+### 💻 Desarrollador de Software Full Stack | Colombia 🌎
 
 Apasionado por crear soluciones con código. Actualmente desarrollando proyectos con **TypeScript**, **C#** y **Python**, desde aplicaciones web hasta sistemas de gestión.
 
