@@ -29,12 +29,12 @@
 
 ## 💫 Sobre mí
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="desarrollador programando" />
 
 ```typescript
 const omar = {
   rol:         "Full Stack Developer",
-  ubicacion:   "Colombia 🇨🇴",
+  ubicacion:   "Colombia",
   lenguajes:   ["TypeScript", "JavaScript", "C#", "Python"],
   frontend:    ["React", "HTML5", "CSS3", "Tailwind"],
   backend:     ["Node.js", ".NET", "FastAPI"],
