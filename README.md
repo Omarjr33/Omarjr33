@@ -193,7 +193,7 @@ const omar = {
 <a href="mailto:omarjrcardona33@gmail.com">
   <img src="https://img.shields.io/badge/Email-omarjrcardona33-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="email" />
 </a>
-<a href="https://github.com/Omarjr33/projectcvOmarCadona">
+<a href="https://omarjr33.github.io/projectcvOmarCadona/">
   <img src="https://img.shields.io/badge/Portafolio-Hoja%20de%20vida-a371f7?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d1117" alt="portafolio" />
 </a>
 <a href="https://github.com/Omarjr33">
