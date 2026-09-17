@@ -94,9 +94,20 @@ const omar = {
 
   <br /><br />
 
-  <img height="175" src="https://streak-stats.demolab.com?user=Omarjr33&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff" alt="racha" />
+  <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omarjr33&theme=tokyonight" alt="resumen del perfil" />
+
+  <br /><br />
+
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Omarjr33&theme=tokyonight" alt="repositorios por lenguaje" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Omarjr33&theme=tokyonight&utcOffset=-5" alt="horario mas productivo" />
 
 </div>
+
+<!--
+  La tarjeta de racha (streak-stats.demolab.com) quedo fuera porque su API
+  devuelve "Failed to retrieve contributions" para esta cuenta. Si algun dia
+  vuelve a responder, se puede reinsertar aqui.
+-->
 
 <!--
   Estos dos bloques estan desactivados porque a septiembre de 2026 sus
