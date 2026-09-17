@@ -3,7 +3,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:a371f7&height=220&section=header&text=Omar%20Cardona&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Colombia&descAlignY=54&descSize=18" alt="banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:a371f7&height=220&section=header&text=Omar%20Cardona&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Colombia&descAlignY=54&descSize=18" alt="banner" />
 </div>
 
 <!-- ── Texto animado ───────────────────────────────────────────── -->
