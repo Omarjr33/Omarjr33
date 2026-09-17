@@ -154,16 +154,16 @@ const omar = {
 <div align="center">
 
   <a href="https://github.com/Omarjr33/projectf1">
-    <img height="115" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Omarjr33&repo=projectf1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" alt="projectf1" />
+    <img height="115" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Omarjr33&repo=projectf1&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" alt="projectf1" />
   </a>
   <a href="https://github.com/Omarjr33/inventario">
-    <img height="115" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Omarjr33&repo=inventario&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" alt="inventario" />
+    <img height="115" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Omarjr33&repo=inventario&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" alt="inventario" />
   </a>
   <a href="https://github.com/Omarjr33/movie">
-    <img height="115" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Omarjr33&repo=movie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" alt="movie" />
+    <img height="115" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Omarjr33&repo=movie&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" alt="movie" />
   </a>
   <a href="https://github.com/Omarjr33/juegoAdivina">
-    <img height="115" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Omarjr33&repo=juegoAdivina&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" alt="juegoAdivina" />
+    <img height="115" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Omarjr33&repo=juegoAdivina&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9" alt="juegoAdivina" />
   </a>
 
 </div>
